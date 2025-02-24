@@ -1,0 +1,9 @@
+psycopg2
+jwt
+pyjwt
+bcrypt
+python-dotenv
+streamlit
+pika
+telegram
+python-telegram-bot
